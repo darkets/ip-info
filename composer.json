@@ -1,0 +1,18 @@
+{
+    "name": "roberts/ip-info",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roberts Bauers",
+            "email": "rrbauerss@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.71",
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
